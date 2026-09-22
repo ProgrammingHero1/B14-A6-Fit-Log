@@ -115,7 +115,7 @@ Follow the live site + design exactly:
 - **Left**: brand logo icon + **FITLOG**.
 - **Right**: copyright line: *"© 2026 FitLog — Workout Library. Train hard, log honest."*
 
-### 9. Responsive Design
+### 8. Responsive Design
 - The entire website must work correctly on mobile, tablet, and desktop screen sizes (grid collapses correctly, navbar stays usable, hero stacks, etc.).
 
 --- 
