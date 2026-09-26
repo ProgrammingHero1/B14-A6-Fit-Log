@@ -17,6 +17,12 @@ https://api.abcz.workers.dev/api/fitlog
 Details/Single Data:
 https://api.abcz.workers.dev/api/fitlog/:id
 
+# Alternative APi:
+All data:
+https://api.api-store.workers.dev/api/fitlog
+
+Single Data:
+https://api.api-store.workers.dev/api/fitlog/:id
 --- 
 
 ## 🐣 Basic Requirements (Must Do for Everyone)
